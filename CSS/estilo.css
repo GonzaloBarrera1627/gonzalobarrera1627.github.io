@@ -120,28 +120,29 @@ body{
     display:flex;
     justify-content: center;
     text-align:center;
+    align-items: center;
     }
 
 #linkcontacto{
     background-color:#024959;
     color:#F2E3D5;
     justify-content: center;
-    display:inline-flex;
+    display:block;
     
 }
 
 #mail {
-padding:3%;
+padding:2%;
 margin: 0;
-display:inline-flex;
+display:flex;
     justify-content: center;
     align-items: center;
 }
 
 #celular {
-    padding:3%;
+    padding:2%;
     margin: 0;
-    display:inline-flex;
+    display:flex;
     justify-content: center;
     align-items: center;
     }
