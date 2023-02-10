@@ -1,0 +1,127 @@
+
+#barra0{
+    background-color:#026773;
+    padding-top: 7px;
+    }
+
+#barra1{
+    display: flex;
+  justify-content: center;
+  
+    
+    
+}
+
+.barra{
+    background-color: #026773;
+    display:inline-block;
+    color:#F2E3D5;
+    padding: 30px;
+    text-decoration: none;
+
+    
+}
+
+
+#barra1 a:hover{
+    background-color: #024959;
+
+}
+
+.circulo{
+
+    background-color:#026773;
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    margin: auto;
+
+}
+
+.circulo2{
+
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: -150px;
+    
+}
+
+
+.container-fluid{
+background-color: #F2E3D5;
+}
+
+
+#fo{
+    object-fit: cover;
+  width:100%;
+  height:100%;
+  border-radius: 50%;
+
+}
+
+#color1{
+    background-color: #3CA6A6;
+    color:#F2E3D5;
+    }
+
+.h3{
+    color:#024959 ;
+    text-align: center;
+    }
+
+.h5{
+    padding-top: 4%;
+    color:#F2E3D5;;
+}
+
+#Nombre{
+
+    text-align: center;
+    margin: auto;
+    color:#F2E3D5;
+}
+
+#cajatexto{
+    background-color: #3CA6A6;
+    color:#F2E3D5;
+    padding: 5px auto 30px auto;
+    }
+
+body{
+    background-color: #F2E3D5;
+}
+
+#curriculum{
+    background-color:#3CA6A6;
+    
+    text-align: center;
+    
+    
+}
+
+.h2{
+    background-color:#026773;
+    color:#F2E3D5 ;
+    padding: 10px;
+    
+    }
+
+.h4{
+     padding: 30px;
+    }
+
+ #contacto{
+    background-color:#026773;
+    color:#F2E3D5;
+    text-align: center;
+    }
+
+#linkcontacto{
+    background-color:#024959;
+    color:#F2E3D5;
+    display:flex;
+    justify-content: center;
+}
