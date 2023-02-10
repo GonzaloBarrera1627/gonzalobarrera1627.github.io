@@ -26,10 +26,10 @@ fetch('https://randomuser.me/api/')
   corto.innerHTML=`<p>${data.results[0].name.first} ${data.results[0].name.title}</p>`
 
   let cel= document.getElementById('celular')
-  cel.innerHTML=`<p>Celular: ${data.results[0].cell} </p>`
+  cel.innerHTML=`<p class="m-0">Celular: ${data.results[0].cell} </p>`
 
   let mai= document.getElementById('mail')
-  mai.innerHTML=`<p>E-mail: ${data.results[0].email}</p>`
+  mai.innerHTML=`<p class="m-0">E-mail: ${data.results[0].email}</p>`
 
 console.log(data);
 })
